@@ -1,0 +1,5 @@
+-I.
+--target=arm-none-eabi
+-mcpu=cortex-m0plus
+-mthumb
+-ffreestanding
